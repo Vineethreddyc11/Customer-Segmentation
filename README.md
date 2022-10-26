@@ -53,16 +53,9 @@ After the data cleaning process, exploratory analysis on the dataset is performe
   - The lowest number of customers for both the types of customers is present in the age bracket under 20 and above 80 age groups.
   - The automobile company is popular among New Customers among the age groups 20-29 and 40-49. 
   - A steep drop in customers is observed in the 30-39 age group among the New Customers<br>
-  <table>
-  <tr>
-    <td><b>Old Customers by Age Distribution</b></td>
-    <td><b>New Customers by Age Distribution</b></td>
-  </tr>
-  <tr>
-    <td><img src="data%20visualization/Old%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
-    <td><img src="data%20visualization/New%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
-  </tr>
-  </table>
+ 
+ ![Screen Shot 2022-10-25 at 10 37 27 PM](https://user-images.githubusercontent.com/68578215/197943691-83d3e89e-37ec-496a-a2a0-cbabec112797.png)
+
 
   
 - <b>Bike purchases over last 3 years by Gender</b><br> 
