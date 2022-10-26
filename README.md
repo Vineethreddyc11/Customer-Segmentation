@@ -63,6 +63,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
     <td><img src="data%20visualization/New%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
   </tr>
   </table>
+
   
 - <b>Bike purchases over last 3 years by Gender</b><br> 
   - Most bike puechases are done by Feamale over the last 3 years. Approximately 51% of the bike purchases are done by Female compared to 49% of the purchases being done by Male.
