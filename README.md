@@ -1,6 +1,5 @@
 # Customer-Segmentation
 Developed RFM (Recency, Frequency, Monetary) model to determine which segments of customers should be targeted to enhance revenue for automobile bike company, by grouping customers into 11 segments based on previous purchase transactions.
-![Screen Shot 2022-10-25 at 10 24 16 PM](https://user-images.githubusercontent.com/68578215/197941954-9de95816-ffbe-46b0-9bd6-b70d78ccb570.png)
 # Data Analytics Customer Segmentation
 
 ## Goal of the project
@@ -8,8 +7,9 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 
 
 ## Tableau Dashboard
-The Sales Dashboard for Customer Segmentation can be found [here](https://public.tableau.com/profile/abhishek.chowdhury#!/vizhome/CustomerSegmentationDashboard_16175595616510/RFMDashboard).<br>
-<img src="data%20visualization/Sales%20Dashboard.gif" height="500" align="middle"><br>
+The Sales Dashboard for Customer Segmentation
+![Screen Shot 2022-10-25 at 10 24 16 PM](https://user-images.githubusercontent.com/68578215/197941954-9de95816-ffbe-46b0-9bd6-b70d78ccb570.png)
+
 
 <b>In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:</b>
 - [RFM Analysis.ipynb](https://nbviewer.jupyter.org/github/AbhishekGit-hash/Data-Analytics-Customer-Segmentation/blob/master/RFM%20Analysis.ipynb)
