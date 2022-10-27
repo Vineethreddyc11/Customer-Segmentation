@@ -5,6 +5,20 @@ Developed RFM (Recency, Frequency, Monetary) model to determine which segments o
 ## Goal of the project
 The purpose of this project is to conduct a Customer Segmentation Analysis for an Automobile bike Company. Customer segmentation is performed by developing a RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. In this analysis the customer segment was divided into 11 groups. The analysis will help in determining which customers segments should be targeted in order to enhance sales revenue for the company. A <b>Sales Dashboard for Customer Segmentation</b> is developed using <b>Tableau</b> and the data quality assessment and analysis is done using <b>Python</b>.
 
+## Datasets Used
+The datasets used include:
+- __Raw_data.xlsx__: This excel file dataset included the following sheets of data:
+  -  __Transactions_data.xlsx__: This dataset included the transactions data of the customers across all the different states in Australia.
+  -  __NewCustomerList.xlsx__: This dataset included the new customers who visted the automobile bike company recently.
+  -  __CustomerDemographic.xlsx__: This dataset included entire details of the Customer Demographics.
+  -  __CustomerAddress.xlsx__: This dataset included the address of the Customers.
+
+
+## Tools and Technologies used
+The tools used in this project include:
+- __Python__ - This was needed to conduct <b>Data Quality Assessment</b> and also for <b>Data Cleaning processes</b>. With Python libraries <b>pandas, matplotlib, seaborn</b> exploratory data analysis of the datasets and to gain useful insights from the data was possible.
+- __Tableau__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>Sales Dashboard for Customer Segmenatation</b> for the automobile bike company.
+
 
 ## Tableau Dashboard
 The Sales Dashboard for Customer Segmentation
@@ -116,16 +130,4 @@ The visualization shows that recent customers have purchased more products and g
 The visualization shows that customers belonging to Platinum/ Very Loyal/ Becoming Loyal Customer Segments have a greater frequency and generate greater monetary for the business<br>
     ![Screen Shot 2022-10-25 at 10 40 14 PM](https://user-images.githubusercontent.com/68578215/197944005-07881538-9287-4b45-be77-4b6e9c081d52.png)
 
-## Datasets Used
-The datasets used include:
-- __Raw_data.xlsx__: This excel file dataset included the following sheets of data:
-  -  __Transactions_data.xlsx__: This dataset included the transactions data of the customers across all the different states in Australia.
-  -  __NewCustomerList.xlsx__: This dataset included the new customers who visted the automobile bike company recently.
-  -  __CustomerDemographic.xlsx__: This dataset included entire details of the Customer Demographics.
-  -  __CustomerAddress.xlsx__: This dataset included the address of the Customers.
 
-
-## Tools and Technologies used
-The tools used in this project include:
-- __Python__ - This was needed to conduct <b>Data Quality Assessment</b> and also for <b>Data Cleaning processes</b>. With Python libraries <b>pandas, matplotlib, seaborn</b> exploratory data analysis of the datasets and to gain useful insights from the data was possible.
-- __Tableau__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>Sales Dashboard for Customer Segmenatation</b> for the automobile bike company.
